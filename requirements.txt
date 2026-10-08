@@ -1,0 +1,7 @@
+torch
+torchvision
+albumentations
+opencv-python-headless
+numpy
+tqdm
+kaggle
